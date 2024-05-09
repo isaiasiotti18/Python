@@ -31,7 +31,7 @@ if __name__ == '__main__':
   display = Display()
   window.addWidget(display)
   
-  buttonGrid = ButtonGrid()
+  buttonGrid = ButtonGrid(display)
   
   gridLayout = QGridLayout()
   
