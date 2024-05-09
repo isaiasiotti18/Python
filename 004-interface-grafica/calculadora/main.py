@@ -25,16 +25,13 @@ if __name__ == '__main__':
   window.setWindowIcon(icon)
   app.setWindowIcon(icon)
 
-  info = Info('80 + 80 = 160')
+  info = Info('Sua Conta')
   window.addWidget(info)
   
   display = Display()
   window.addWidget(display)
   
-  buttonGrid = ButtonGrid(display)
-  
-  gridLayout = QGridLayout()
-  
+  buttonGrid = ButtonGrid(display, info)
   window.vLayout.addLayout(buttonGrid)
   
   app.setStyleSheet(theme)
