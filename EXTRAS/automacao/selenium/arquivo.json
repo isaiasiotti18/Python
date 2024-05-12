@@ -1,0 +1,1003 @@
+[
+  {
+    "nome": "ABC BRASIL PN",
+    "codigo": "Código",
+    "valor": "Última (R$)",
+    "variacao": "Variação (%)",
+    "fechamento_dia_anterior": "Fech. dia anterior (R$)"
+  },
+  {
+    "nome": "ALPARGATAS PN",
+    "codigo": "ALPA4",
+    "valor": "10,29",
+    "variacao": "3,31 %",
+    "fechamento_dia_anterior": "9,96"
+  },
+  {
+    "nome": "ALUPAR UNT",
+    "codigo": "ALUP11",
+    "valor": "29,15",
+    "variacao": "-0,34 %",
+    "fechamento_dia_anterior": "29,25"
+  },
+  {
+    "nome": "AMBEV S/A ON",
+    "codigo": "ABEV3",
+    "valor": "12,04",
+    "variacao": "-0,08 %",
+    "fechamento_dia_anterior": "12,05"
+  },
+  {
+    "nome": "ANIMA ON",
+    "codigo": "ANIM3",
+    "valor": "3,55",
+    "variacao": "-2,47 %",
+    "fechamento_dia_anterior": "3,64"
+  },
+  {
+    "nome": "AREZZO CO ON",
+    "codigo": "ARZZ3",
+    "valor": "47,82",
+    "variacao": "-3,88 %",
+    "fechamento_dia_anterior": "49,75"
+  },
+  {
+    "nome": "AZUL PN",
+    "codigo": "AZUL4",
+    "valor": "11,03",
+    "variacao": "-0,45 %",
+    "fechamento_dia_anterior": "11,08"
+  },
+  {
+    "nome": "B3 ON",
+    "codigo": "B3SA3",
+    "valor": "10,94",
+    "variacao": "-2,41 %",
+    "fechamento_dia_anterior": "11,21"
+  },
+  {
+    "nome": "BANRISUL PNB",
+    "codigo": "BRSR6",
+    "valor": "11,14",
+    "variacao": "-0,45 %",
+    "fechamento_dia_anterior": "11,19"
+  },
+  {
+    "nome": "BB SEGURIDADE ON",
+    "codigo": "BBSE3",
+    "valor": "33,13",
+    "variacao": "1,56 %",
+    "fechamento_dia_anterior": "32,62"
+  },
+  {
+    "nome": "BRADESCO ON",
+    "codigo": "BBDC3",
+    "valor": "11,95",
+    "variacao": "-0,08 %",
+    "fechamento_dia_anterior": "11,96"
+  },
+  {
+    "nome": "BRADESCO PN",
+    "codigo": "BBDC4",
+    "valor": "13,37",
+    "variacao": "-0,59 %",
+    "fechamento_dia_anterior": "13,45"
+  },
+  {
+    "nome": "BRADESPAR PN",
+    "codigo": "BRAP4",
+    "valor": "20,10",
+    "variacao": "-0,89 %",
+    "fechamento_dia_anterior": "20,28"
+  },
+  {
+    "nome": "BRASIL ON",
+    "codigo": "BBAS3",
+    "valor": "27,62",
+    "variacao": "1,77 %",
+    "fechamento_dia_anterior": "27,14"
+  },
+  {
+    "nome": "BRASKEM PNA",
+    "codigo": "BRKM5",
+    "valor": "19,06",
+    "variacao": "-1,14 %",
+    "fechamento_dia_anterior": "19,28"
+  },
+  {
+    "nome": "BRF SA ON",
+    "codigo": "BRFS3",
+    "valor": "18,32",
+    "variacao": "-3,12 %",
+    "fechamento_dia_anterior": "18,91"
+  },
+  {
+    "nome": "BTGP BANCO UNT",
+    "codigo": "BPAC11",
+    "valor": "33,52",
+    "variacao": "0,93 %",
+    "fechamento_dia_anterior": "33,21"
+  },
+  {
+    "nome": "CAMIL ON",
+    "codigo": "CAML3",
+    "valor": "9,24",
+    "variacao": "1,99 %",
+    "fechamento_dia_anterior": "9,06"
+  },
+  {
+    "nome": "CARREFOUR BR ON",
+    "codigo": "CRFB3",
+    "valor": "11,13",
+    "variacao": "-3,47 %",
+    "fechamento_dia_anterior": "11,53"
+  },
+  {
+    "nome": "CCR SA ON",
+    "codigo": "CCRO3",
+    "valor": "12,65",
+    "variacao": "-0,63 %",
+    "fechamento_dia_anterior": "12,73"
+  },
+  {
+    "nome": "CEMIG ON",
+    "codigo": "CMIG3",
+    "valor": "12,16",
+    "variacao": "-0,25 %",
+    "fechamento_dia_anterior": "12,19"
+  },
+  {
+    "nome": "CEMIG PN",
+    "codigo": "CMIG4",
+    "valor": "10,13",
+    "variacao": "-1,46 %",
+    "fechamento_dia_anterior": "10,28"
+  },
+  {
+    "nome": "CIELO ON",
+    "codigo": "CIEL3",
+    "valor": "5,58",
+    "variacao": "-0,18 %",
+    "fechamento_dia_anterior": "5,59"
+  },
+  {
+    "nome": "COMGAS PNA",
+    "codigo": "CGAS5",
+    "valor": "112,40",
+    "variacao": "-0,27 %",
+    "fechamento_dia_anterior": "112,70"
+  },
+  {
+    "nome": "COPASA ON I12",
+    "codigo": "CSMG3",
+    "valor": "19,60",
+    "variacao": "1,40 %",
+    "fechamento_dia_anterior": "19,33"
+  },
+  {
+    "nome": "COPEL PNB",
+    "codigo": "CPLE6",
+    "valor": "9,13",
+    "variacao": "-1,19 %",
+    "fechamento_dia_anterior": "9,24"
+  },
+  {
+    "nome": "COSAN ON",
+    "codigo": "CSAN3",
+    "valor": "14,28",
+    "variacao": "-1,79 %",
+    "fechamento_dia_anterior": "14,54"
+  },
+  {
+    "nome": "COSAN LOG ON",
+    "codigo": "RLOG3",
+    "valor": "-",
+    "variacao": "-",
+    "fechamento_dia_anterior": "-"
+  },
+  {
+    "nome": "CPFL ENERGIA ON",
+    "codigo": "CPFE3",
+    "valor": "32,44",
+    "variacao": "-0,70 %",
+    "fechamento_dia_anterior": "32,67"
+  },
+  {
+    "nome": "CVC BRASIL ON",
+    "codigo": "CVCB3",
+    "valor": "2,25",
+    "variacao": "-0,88 %",
+    "fechamento_dia_anterior": "2,27"
+  },
+  {
+    "nome": "CYRELA REALT ON",
+    "codigo": "CYRE3",
+    "valor": "20,91",
+    "variacao": "-1,92 %",
+    "fechamento_dia_anterior": "21,32"
+  },
+  {
+    "nome": "DIRECIONAL ON",
+    "codigo": "DIRR3",
+    "valor": "25,25",
+    "variacao": "2,43 %",
+    "fechamento_dia_anterior": "24,65"
+  },
+  {
+    "nome": "ECORODOVIAS ON",
+    "codigo": "ECOR3",
+    "valor": "7,25",
+    "variacao": "1,40 %",
+    "fechamento_dia_anterior": "7,15"
+  },
+  {
+    "nome": "ELETROBRAS ON",
+    "codigo": "ELET3",
+    "valor": "37,87",
+    "variacao": "-0,63 %",
+    "fechamento_dia_anterior": "38,11"
+  },
+  {
+    "nome": "ELETROBRAS PNB",
+    "codigo": "ELET6",
+    "valor": "41,97",
+    "variacao": "-0,71 %",
+    "fechamento_dia_anterior": "42,27"
+  },
+  {
+    "nome": "EMBRAER ON",
+    "codigo": "EMBR3",
+    "valor": "33,50",
+    "variacao": "-1,44 %",
+    "fechamento_dia_anterior": "33,99"
+  },
+  {
+    "nome": "ENERGISA UNT",
+    "codigo": "ENGI11",
+    "valor": "47,56",
+    "variacao": "1,49 %",
+    "fechamento_dia_anterior": "46,86"
+  },
+  {
+    "nome": "ENEVA ON",
+    "codigo": "ENEV3",
+    "valor": "12,47",
+    "variacao": "-0,87 %",
+    "fechamento_dia_anterior": "12,58"
+  },
+  {
+    "nome": "ENGIE BRASIL ON",
+    "codigo": "EGIE3",
+    "valor": "43,00",
+    "variacao": "-1,76 %",
+    "fechamento_dia_anterior": "43,77"
+  },
+  {
+    "nome": "EQUATORIAL ON",
+    "codigo": "EQTL3",
+    "valor": "30,60",
+    "variacao": "-1,07 %",
+    "fechamento_dia_anterior": "30,93"
+  },
+  {
+    "nome": "EVEN ON",
+    "codigo": "EVEN3",
+    "valor": "7,19",
+    "variacao": "-2,04 %",
+    "fechamento_dia_anterior": "7,34"
+  },
+  {
+    "nome": "EZTEC ON",
+    "codigo": "EZTC3",
+    "valor": "13,90",
+    "variacao": "-0,20 %",
+    "fechamento_dia_anterior": "13,93"
+  },
+  {
+    "nome": "FERBASA PN",
+    "codigo": "FESA4",
+    "valor": "8,00",
+    "variacao": "-0,87 %",
+    "fechamento_dia_anterior": "8,07"
+  },
+  {
+    "nome": "FLEURY ON",
+    "codigo": "FLRY3",
+    "valor": "14,45",
+    "variacao": "-2,03 %",
+    "fechamento_dia_anterior": "14,75"
+  },
+  {
+    "nome": "GAFISA ON",
+    "codigo": "GFSA3",
+    "valor": "4,85",
+    "variacao": "-3,19 %",
+    "fechamento_dia_anterior": "5,01"
+  },
+  {
+    "nome": "GERDAU PN",
+    "codigo": "GGBR4",
+    "valor": "19,14",
+    "variacao": "-1,09 %",
+    "fechamento_dia_anterior": "19,35"
+  },
+  {
+    "nome": "GERDAU MET PN",
+    "codigo": "GOAU4",
+    "valor": "11,10",
+    "variacao": "-1,51 %",
+    "fechamento_dia_anterior": "11,27"
+  },
+  {
+    "nome": "GOL PN",
+    "codigo": "GOLL4",
+    "valor": "1,27",
+    "variacao": "2,42 %",
+    "fechamento_dia_anterior": "1,24"
+  },
+  {
+    "nome": "GRENDENE ON",
+    "codigo": "GRND3",
+    "valor": "5,96",
+    "variacao": "0,51 %",
+    "fechamento_dia_anterior": "5,93"
+  },
+  {
+    "nome": "GUARARAPES ON",
+    "codigo": "GUAR3",
+    "valor": "7,75",
+    "variacao": "-4,79 %",
+    "fechamento_dia_anterior": "8,14"
+  },
+  {
+    "nome": "HAPVIDA ON",
+    "codigo": "HAPV3",
+    "valor": "4,05",
+    "variacao": "-1,22 %",
+    "fechamento_dia_anterior": "4,10"
+  },
+  {
+    "nome": "HELBOR ON",
+    "codigo": "HBOR3",
+    "valor": "2,67",
+    "variacao": "-1,84 %",
+    "fechamento_dia_anterior": "2,72"
+  },
+  {
+    "nome": "HYPERA ON",
+    "codigo": "HYPE3",
+    "valor": "30,03",
+    "variacao": "-1,18 %",
+    "fechamento_dia_anterior": "30,39"
+  },
+  {
+    "nome": "IMC S/A ON",
+    "codigo": "MEAL3",
+    "valor": "1,51",
+    "variacao": "0,67 %",
+    "fechamento_dia_anterior": "1,50"
+  },
+  {
+    "nome": "NOTRE DAME INTERMÉDICA PARTICIPAÇÕES",
+    "codigo": "GNDI3",
+    "valor": "-",
+    "variacao": "-",
+    "fechamento_dia_anterior": "-"
+  },
+  {
+    "nome": "IOCHPE-MAXION ON",
+    "codigo": "MYPK3",
+    "valor": "11,83",
+    "variacao": "-7,65 %",
+    "fechamento_dia_anterior": "12,81"
+  },
+  {
+    "nome": "IRBBRASIL RE ON",
+    "codigo": "IRBR3",
+    "valor": "38,80",
+    "variacao": "-1,80 %",
+    "fechamento_dia_anterior": "39,51"
+  },
+  {
+    "nome": "ITAUSA PN",
+    "codigo": "ITSA4",
+    "valor": "10,04",
+    "variacao": "1,11 %",
+    "fechamento_dia_anterior": "9,93"
+  },
+  {
+    "nome": "ITAU UNIBANCO ON",
+    "codigo": "ITUB3",
+    "valor": "28,21",
+    "variacao": "1,15 %",
+    "fechamento_dia_anterior": "27,89"
+  },
+  {
+    "nome": "ITAU UNIBANCO PN",
+    "codigo": "ITUB4",
+    "valor": "32,65",
+    "variacao": "1,15 %",
+    "fechamento_dia_anterior": "32,28"
+  },
+  {
+    "nome": "JBS ON",
+    "codigo": "JBSS3",
+    "valor": "24,62",
+    "variacao": "0,04 %",
+    "fechamento_dia_anterior": "24,61"
+  },
+  {
+    "nome": "KLABIN S/A UNT",
+    "codigo": "KLBN11",
+    "valor": "21,53",
+    "variacao": "-0,69 %",
+    "fechamento_dia_anterior": "21,68"
+  },
+  {
+    "nome": "LIGHT S/A ON",
+    "codigo": "LIGT3",
+    "valor": "5,13",
+    "variacao": "1,38 %",
+    "fechamento_dia_anterior": "5,06"
+  },
+  {
+    "nome": "LOCALIZA ON",
+    "codigo": "RENT3",
+    "valor": "47,00",
+    "variacao": "-5,15 %",
+    "fechamento_dia_anterior": "49,55"
+  },
+  {
+    "nome": "LOJAS MARISA ON",
+    "codigo": "AMAR3",
+    "valor": "1,48",
+    "variacao": "0,68 %",
+    "fechamento_dia_anterior": "1,47"
+  },
+  {
+    "nome": "LOJAS RENNER ON",
+    "codigo": "LREN3",
+    "valor": "15,10",
+    "variacao": "-4,19 %",
+    "fechamento_dia_anterior": "15,76"
+  },
+  {
+    "nome": "M.DIAS BRANCO ON",
+    "codigo": "MDIA3",
+    "valor": "34,25",
+    "variacao": "-0,12 %",
+    "fechamento_dia_anterior": "34,29"
+  },
+  {
+    "nome": "MAGAZ LUIZA ON",
+    "codigo": "MGLU3",
+    "valor": "1,54",
+    "variacao": "-7,78 %",
+    "fechamento_dia_anterior": "1,67"
+  },
+  {
+    "nome": "MARCOPOLO PN",
+    "codigo": "POMO4",
+    "valor": "6,72",
+    "variacao": "0,30 %",
+    "fechamento_dia_anterior": "6,70"
+  },
+  {
+    "nome": "MARFRIG ON",
+    "codigo": "MRFG3",
+    "valor": "9,95",
+    "variacao": "-4,33 %",
+    "fechamento_dia_anterior": "10,40"
+  },
+  {
+    "nome": "METAL LEVE ON",
+    "codigo": "LEVE3",
+    "valor": "32,63",
+    "variacao": "-0,12 %",
+    "fechamento_dia_anterior": "32,67"
+  },
+  {
+    "nome": "MINERVA ON",
+    "codigo": "BEEF3",
+    "valor": "6,34",
+    "variacao": "1,60 %",
+    "fechamento_dia_anterior": "6,24"
+  },
+  {
+    "nome": "MOVIDA ON",
+    "codigo": "MOVI3",
+    "valor": "6,91",
+    "variacao": "-4,56 %",
+    "fechamento_dia_anterior": "7,24"
+  },
+  {
+    "nome": "MRV ON",
+    "codigo": "MRVE3",
+    "valor": "7,02",
+    "variacao": "-4,36 %",
+    "fechamento_dia_anterior": "7,34"
+  },
+  {
+    "nome": "MULTIPLAN ON",
+    "codigo": "MULT3",
+    "valor": "23,65",
+    "variacao": "0,90 %",
+    "fechamento_dia_anterior": "23,44"
+  },
+  {
+    "nome": "ODONTOPREV ON",
+    "codigo": "ODPV3",
+    "valor": "12,25",
+    "variacao": "-0,41 %",
+    "fechamento_dia_anterior": "12,30"
+  },
+  {
+    "nome": "OMEGA GERAÇÃO ON",
+    "codigo": "OMGE3",
+    "valor": "-",
+    "variacao": "-",
+    "fechamento_dia_anterior": "-"
+  },
+  {
+    "nome": "PETROBRAS ON",
+    "codigo": "PETR3",
+    "valor": "44,13",
+    "variacao": "-0,76 %",
+    "fechamento_dia_anterior": "44,47"
+  },
+  {
+    "nome": "PETROBRAS PN",
+    "codigo": "PETR4",
+    "valor": "41,58",
+    "variacao": "-0,22 %",
+    "fechamento_dia_anterior": "41,67"
+  },
+  {
+    "nome": "PETRORIO ON",
+    "codigo": "PRIO3",
+    "valor": "47,00",
+    "variacao": "0,47 %",
+    "fechamento_dia_anterior": "46,78"
+  },
+  {
+    "nome": "PORTO SEGURO ON",
+    "codigo": "PSSA3",
+    "valor": "28,53",
+    "variacao": "-0,83 %",
+    "fechamento_dia_anterior": "28,77"
+  },
+  {
+    "nome": "PORTOBELLO ON",
+    "codigo": "PTBL3",
+    "valor": "5,84",
+    "variacao": "-3,47 %",
+    "fechamento_dia_anterior": "6,05"
+  },
+  {
+    "nome": "QUALICORP ON",
+    "codigo": "QUAL3",
+    "valor": "1,63",
+    "variacao": "-1,81 %",
+    "fechamento_dia_anterior": "1,66"
+  },
+  {
+    "nome": "RAIA DROGASIL ON",
+    "codigo": "RADL3",
+    "valor": "25,65",
+    "variacao": "-1,99 %",
+    "fechamento_dia_anterior": "26,17"
+  },
+  {
+    "nome": "RANDON PART PN",
+    "codigo": "RAPT4",
+    "valor": "10,16",
+    "variacao": "-2,21 %",
+    "fechamento_dia_anterior": "10,39"
+  },
+  {
+    "nome": "RUMO S.A. ON",
+    "codigo": "RAIL3",
+    "valor": "20,98",
+    "variacao": "2,54 %",
+    "fechamento_dia_anterior": "20,46"
+  },
+  {
+    "nome": "SABESP ON",
+    "codigo": "SBSP3",
+    "valor": "78,41",
+    "variacao": "-1,05 %",
+    "fechamento_dia_anterior": "79,24"
+  },
+  {
+    "nome": "SANEPAR UNIT",
+    "codigo": "SAPR11",
+    "valor": "27,33",
+    "variacao": "1,30 %",
+    "fechamento_dia_anterior": "26,98"
+  },
+  {
+    "nome": "SANTANDER BR UNIT",
+    "codigo": "SANB11",
+    "valor": "28,50",
+    "variacao": "-0,59 %",
+    "fechamento_dia_anterior": "28,67"
+  },
+  {
+    "nome": "SANTOS BR PART ON",
+    "codigo": "STBP3",
+    "valor": "12,70",
+    "variacao": "-3,50 %",
+    "fechamento_dia_anterior": "13,16"
+  },
+  {
+    "nome": "SAO MARTINHO ON",
+    "codigo": "SMTO3",
+    "valor": "28,29",
+    "variacao": "-3,05 %",
+    "fechamento_dia_anterior": "29,18"
+  },
+  {
+    "nome": "SER EDUCA ON",
+    "codigo": "SEER3",
+    "valor": "5,16",
+    "variacao": "-6,18 %",
+    "fechamento_dia_anterior": "5,50"
+  },
+  {
+    "nome": "SID NACIONAL ON",
+    "codigo": "CSNA3",
+    "valor": "13,84",
+    "variacao": "-0,29 %",
+    "fechamento_dia_anterior": "13,88"
+  },
+  {
+    "nome": "SLC AGRICOLA ON",
+    "codigo": "SLCE3",
+    "valor": "18,48",
+    "variacao": "-0,11 %",
+    "fechamento_dia_anterior": "18,50"
+  },
+  {
+    "nome": "SUZANO S.A. ON",
+    "codigo": "SUZB3",
+    "valor": "51,70",
+    "variacao": "-1,90 %",
+    "fechamento_dia_anterior": "52,70"
+  },
+  {
+    "nome": "TAESA UNIT",
+    "codigo": "TAEE11",
+    "valor": "34,62",
+    "variacao": "-0,55 %",
+    "fechamento_dia_anterior": "34,81"
+  },
+  {
+    "nome": "TEGMA ON",
+    "codigo": "TGMA3",
+    "valor": "25,62",
+    "variacao": "-0,93 %",
+    "fechamento_dia_anterior": "25,86"
+  },
+  {
+    "nome": "TOTVS ON",
+    "codigo": "TOTS3",
+    "valor": "28,00",
+    "variacao": "-1,82 %",
+    "fechamento_dia_anterior": "28,52"
+  },
+  {
+    "nome": "TRANS PAULISTA PN",
+    "codigo": "TRPL4",
+    "valor": "25,24",
+    "variacao": "-0,24 %",
+    "fechamento_dia_anterior": "25,30"
+  },
+  {
+    "nome": "TUPY ON",
+    "codigo": "TUPY3",
+    "valor": "25,18",
+    "variacao": "-0,12 %",
+    "fechamento_dia_anterior": "25,21"
+  },
+  {
+    "nome": "ULTRAPAR ON",
+    "codigo": "UGPA3",
+    "valor": "24,48",
+    "variacao": "-2,47 %",
+    "fechamento_dia_anterior": "25,10"
+  },
+  {
+    "nome": "UNIPAR PNB",
+    "codigo": "UNIP6",
+    "valor": "52,00",
+    "variacao": "-3,70 %",
+    "fechamento_dia_anterior": "54,00"
+  },
+  {
+    "nome": "USIMINAS PNA",
+    "codigo": "USIM5",
+    "valor": "7,96",
+    "variacao": "-0,50 %",
+    "fechamento_dia_anterior": "8,00"
+  },
+  {
+    "nome": "VALE ON",
+    "codigo": "VALE3",
+    "valor": "64,29",
+    "variacao": "-0,34 %",
+    "fechamento_dia_anterior": "64,51"
+  },
+  {
+    "nome": "VALID ON",
+    "codigo": "VLID3",
+    "valor": "16,80",
+    "variacao": "-0,59 %",
+    "fechamento_dia_anterior": "16,90"
+  },
+  {
+    "nome": "VULCABRAS ON",
+    "codigo": "VULC3",
+    "valor": "15,77",
+    "variacao": "0,25 %",
+    "fechamento_dia_anterior": "15,73"
+  },
+  {
+    "nome": "WEG ON",
+    "codigo": "WEGE3",
+    "valor": "38,97",
+    "variacao": "0,18 %",
+    "fechamento_dia_anterior": "38,90"
+  },
+  {
+    "nome": "VIVARA ON",
+    "codigo": "VIVA3",
+    "valor": "23,06",
+    "variacao": "-3,60 %",
+    "fechamento_dia_anterior": "23,92"
+  },
+  {
+    "nome": "CEA MODAS ON",
+    "codigo": "CEAB3",
+    "valor": "10,23",
+    "variacao": "-16,56 %",
+    "fechamento_dia_anterior": "12,26"
+  },
+  {
+    "nome": "YDUQS PART ON",
+    "codigo": "YDUQ3",
+    "valor": "15,61",
+    "variacao": "-3,16 %",
+    "fechamento_dia_anterior": "16,12"
+  },
+  {
+    "nome": "COGNA ON",
+    "codigo": "COGN3",
+    "valor": "2,07",
+    "variacao": "-4,61 %",
+    "fechamento_dia_anterior": "2,17"
+  },
+  {
+    "nome": "BIOMM ON",
+    "codigo": "BIOM3",
+    "valor": "18,00",
+    "variacao": "0,67 %",
+    "fechamento_dia_anterior": "18,00"
+  },
+  {
+    "nome": "BANCO PAN PN",
+    "codigo": "BPAN4",
+    "valor": "9,59",
+    "variacao": "1,59 %",
+    "fechamento_dia_anterior": "9,44"
+  },
+  {
+    "nome": "FER HERINGER ON",
+    "codigo": "FHER3",
+    "valor": "4,98",
+    "variacao": "1,22 %",
+    "fechamento_dia_anterior": "4,92"
+  },
+  {
+    "nome": "FRAS-LE ON",
+    "codigo": "FRAS3",
+    "valor": "17,99",
+    "variacao": "-0,06 %",
+    "fechamento_dia_anterior": "18,00"
+  },
+  {
+    "nome": "METALFRIO ON",
+    "codigo": "FRIO3",
+    "valor": "301,00",
+    "variacao": "-0,33 %",
+    "fechamento_dia_anterior": "302,00"
+  },
+  {
+    "nome": "GENERAL SHOPPING ON",
+    "codigo": "GSHP3",
+    "valor": "10,80",
+    "variacao": "0,00 %",
+    "fechamento_dia_anterior": "10,80"
+  },
+  {
+    "nome": "GP INVEST DR3",
+    "codigo": "GPIV33",
+    "valor": "3,95",
+    "variacao": "-1,00 %",
+    "fechamento_dia_anterior": "3,99"
+  },
+  {
+    "nome": "LOPES BRASIL ON",
+    "codigo": "LPSB3",
+    "valor": "2,23",
+    "variacao": "-1,33 %",
+    "fechamento_dia_anterior": "2,26"
+  },
+  {
+    "nome": "LOG-IN ON",
+    "codigo": "LOGN3",
+    "valor": "39,50",
+    "variacao": "-3,66 %",
+    "fechamento_dia_anterior": "41,00"
+  },
+  {
+    "nome": "MANGELS INDL ON",
+    "codigo": "MGEL3",
+    "valor": "74,10",
+    "variacao": "-",
+    "fechamento_dia_anterior": "74,10"
+  },
+  {
+    "nome": "MILLS ON",
+    "codigo": "MILS3",
+    "valor": "13,05",
+    "variacao": "-0,68 %",
+    "fechamento_dia_anterior": "13,14"
+  },
+  {
+    "nome": "OUROFINO S/A ON",
+    "codigo": "OFSA3",
+    "valor": "21,50",
+    "variacao": "2,58 %",
+    "fechamento_dia_anterior": "20,96"
+  },
+  {
+    "nome": "OI ON",
+    "codigo": "OIBR3",
+    "valor": "0,66",
+    "variacao": "-7,04 %",
+    "fechamento_dia_anterior": "0,71"
+  },
+  {
+    "nome": "PROFARMA ON",
+    "codigo": "PFRM3",
+    "valor": "5,91",
+    "variacao": "0,51 %",
+    "fechamento_dia_anterior": "5,88"
+  },
+  {
+    "nome": "PINE ON",
+    "codigo": "PINE3",
+    "valor": "5,71",
+    "variacao": "-0,17 %",
+    "fechamento_dia_anterior": "5,72"
+  },
+  {
+    "nome": "ROMI ON NM",
+    "codigo": "ROMI3",
+    "valor": "10,39",
+    "variacao": "-1,98 %",
+    "fechamento_dia_anterior": "10,60"
+  },
+  {
+    "nome": "PARANAPANEMA ON",
+    "codigo": "PMAM3",
+    "valor": "2,67",
+    "variacao": "-1,11 %",
+    "fechamento_dia_anterior": "2,70"
+  },
+  {
+    "nome": "ROSSI RESIDENCIAL ON",
+    "codigo": "RSID3",
+    "valor": "6,00",
+    "variacao": "2,39 %",
+    "fechamento_dia_anterior": "5,86"
+  },
+  {
+    "nome": "SAO CARLOS ON",
+    "codigo": "SCAR3",
+    "valor": "24,64",
+    "variacao": "-1,40 %",
+    "fechamento_dia_anterior": "24,99"
+  },
+  {
+    "nome": "SPRINGS ON",
+    "codigo": "SGPS3",
+    "valor": "0,71",
+    "variacao": "-1,39 %",
+    "fechamento_dia_anterior": "0,72"
+  },
+  {
+    "nome": "TIME FOR FUN ON",
+    "codigo": "SHOW3",
+    "valor": "1,87",
+    "variacao": "-5,56 %",
+    "fechamento_dia_anterior": "1,98"
+  },
+  {
+    "nome": "SARAIVA LIVR ON",
+    "codigo": "SLED3",
+    "valor": "3,21",
+    "variacao": "-0,31 %",
+    "fechamento_dia_anterior": "3,22"
+  },
+  {
+    "nome": "TECNISA ON",
+    "codigo": "TCSA3",
+    "valor": "2,48",
+    "variacao": "-6,06 %",
+    "fechamento_dia_anterior": "2,64"
+  },
+  {
+    "nome": "TECHNOS ON",
+    "codigo": "TECN3",
+    "valor": "4,45",
+    "variacao": "-1,98 %",
+    "fechamento_dia_anterior": "4,54"
+  },
+  {
+    "nome": "TELEBRAS PN",
+    "codigo": "TELB4",
+    "valor": "9,49",
+    "variacao": "0,00 %",
+    "fechamento_dia_anterior": "9,49"
+  },
+  {
+    "nome": "TENDA ON",
+    "codigo": "TEND3",
+    "valor": "12,22",
+    "variacao": "-3,02 %",
+    "fechamento_dia_anterior": "12,60"
+  },
+  {
+    "nome": "TERRA SANTA ON",
+    "codigo": "TESA3",
+    "valor": "-",
+    "variacao": "-",
+    "fechamento_dia_anterior": "-"
+  },
+  {
+    "nome": "TRIUNFO PART ON",
+    "codigo": "TPIS3",
+    "valor": "3,83",
+    "variacao": "-1,29 %",
+    "fechamento_dia_anterior": "3,88"
+  },
+  {
+    "nome": "TRISUL ON",
+    "codigo": "TRIS3",
+    "valor": "4,77",
+    "variacao": "-1,45 %",
+    "fechamento_dia_anterior": "4,84"
+  },
+  {
+    "nome": "VIVER ON",
+    "codigo": "VIVR3",
+    "valor": "2,86",
+    "variacao": "-4,03 %",
+    "fechamento_dia_anterior": "2,98"
+  },
+  {
+    "nome": "GRUPO NATURA ON",
+    "codigo": "NTCO3",
+    "valor": "17,25",
+    "variacao": "0,23 %",
+    "fechamento_dia_anterior": "17,21"
+  },
+  {
+    "nome": "P.ACUCAR - CBD ON",
+    "codigo": "PCAR3",
+    "valor": "3,10",
+    "variacao": "-0,96 %",
+    "fechamento_dia_anterior": "3,13"
+  }
+]

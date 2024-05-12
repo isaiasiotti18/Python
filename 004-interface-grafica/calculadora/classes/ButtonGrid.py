@@ -1,8 +1,9 @@
+import math
 from classes.Button import Button
 from classes.Display import Display
 from classes.Info import Info
 
-from PySide6.QtWidgets import QGridLayout
+from PySide6.QtWidgets import QGridLayout, QMessageBox
 from PySide6.QtCore import Slot
 
 from utils import isEmpty, isNumOrDot, isValidNumber
@@ -20,7 +21,7 @@ class ButtonGrid(QGridLayout):
     self._rightNumber = None
     self._operation = None
     
-    self._equation = self._equationInitialValue
+    self.equation = self._equationInitialValue
     
     self.createGridOfButtons()
     
@@ -36,7 +37,7 @@ class ButtonGrid(QGridLayout):
   def createGridOfButtons(self):
   # Define your button labels here
     buttonLabels = [
-      ['C', '◀', '^', '/'],
+      ['C', 'X', '^', '/'],
       ['7', '8', '9', '*'],
       ['4', '5', '6', '-'],
       ['1', '2', '3', '+'],
@@ -80,18 +81,61 @@ class ButtonGrid(QGridLayout):
     buttonText = button.text()
     
     if buttonText == 'C':
-      buttonSlot = self.makeButtonDisplaySlot(self.display.clear)
-      self.connectButtonClicked(button, buttonSlot)
-      self._leftNumber = None
-      self._rightNumber = None
-      self._operation = None
-      self.equation = self._equationInitialValue
+      self.connectButtonClicked(button, self.clearDisplay)
     
-    if buttonText in '+-*/':
+    if buttonText in '+-*/^':
       self.connectButtonClicked(
         button,
         self.makeButtonDisplaySlot(self.operatorClicked, button)
       )
+    
+    if buttonText in '=':
+      self.connectButtonClicked(
+        button,
+        self.equalButton
+      )  
+
+    if buttonText in 'X':
+      self.connectButtonClicked(
+        button,
+        self.display.backspace
+      )
+      
+  def equalButton(self):
+    displayText = self.display.text()
+    
+    if not isValidNumber(displayText):
+      return
+  
+    self._rightNumber = float(displayText)
+    self.equation = f'{self._leftNumber} {self._operation} {self._rightNumber}'
+    
+    result = 0.0
+    
+    try:
+      if '^' in self.equation:
+        result = math.pow(self._leftNumber, self._rightNumber)
+
+      else:  
+        result = eval(self.equation)
+    except ZeroDivisionError:
+      self.msgError(
+        'Impossível dividir por zero.',
+        QMessageBox().Icon.Critical
+      )
+      result = 0.0
+      return
+    except OverflowError:
+      self.msgError(
+        'Número grande demais.',
+        QMessageBox().Icon.Critical
+      )
+      return
+  
+    self.display.clear()
+    self.info.setText(f'{self.equation} = {result}')
+    self._leftNumber = result
+    self._rightNumber = None
   
   def makeButtonDisplaySlot(self, func, *args, **kwargs):
     @Slot(bool)
@@ -107,3 +151,16 @@ class ButtonGrid(QGridLayout):
       return
     
     self.display.insert(buttonText)
+    
+  def clearDisplay(self):
+    self._leftNumber = None
+    self._rightNumber = None
+    self._operation = None
+    self.equation = self._equationInitialValue
+    self.display.clear()
+    
+  def msgError(self, text, icon = QMessageBox.Icon):
+    errorMsg = QMessageBox()
+    errorMsg.setText(text)
+    errorMsg.setIcon(icon)
+    errorMsg.exec()
